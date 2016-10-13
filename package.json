@@ -1,5 +1,5 @@
 {
-  "name": "manageyourcontact",
+  "name": "contactList",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,14 +9,6 @@
     "mongojs": "^0.18.1"
   },
   "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/michaelcheng429/meanstacktutorial.git"
-  },
   "author": "Qinyi Zhang"
   
  }
